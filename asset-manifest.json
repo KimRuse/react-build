@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "./static/js/main.275eb6c3.chunk.js",
-    "main.js.map": "./static/js/main.275eb6c3.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/css/2.da2008d2.chunk.css": "./static/css/2.da2008d2.chunk.css",
-    "static/js/2.0f2cbc3c.chunk.js": "./static/js/2.0f2cbc3c.chunk.js",
-    "static/js/2.0f2cbc3c.chunk.js.map": "./static/js/2.0f2cbc3c.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.0ba522ba188bff85c4abc7216a2d42a8.js": "./precache-manifest.0ba522ba188bff85c4abc7216a2d42a8.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.da2008d2.chunk.css.map": "./static/css/2.da2008d2.chunk.css.map",
-    "static/media/header-bg.png": "./static/media/header-bg.8cf84535.png",
-    "static/media/main-bg.png": "./static/media/main-bg.399a7619.png",
-    "static/media/slick-theme.css": "./static/media/slick.f97e3bbf.svg"
+    "main.js": "/react-build/static/js/main.275eb6c3.chunk.js",
+    "main.js.map": "/react-build/static/js/main.275eb6c3.chunk.js.map",
+    "runtime~main.js": "/react-build/static/js/runtime~main.eb60a148.js",
+    "runtime~main.js.map": "/react-build/static/js/runtime~main.eb60a148.js.map",
+    "static/css/2.f8360490.chunk.css": "/react-build/static/css/2.f8360490.chunk.css",
+    "static/js/2.716887a3.chunk.js": "/react-build/static/js/2.716887a3.chunk.js",
+    "static/js/2.716887a3.chunk.js.map": "/react-build/static/js/2.716887a3.chunk.js.map",
+    "index.html": "/react-build/index.html",
+    "precache-manifest.ee1919904ba7534cb9ec9fd0a3d6f408.js": "/react-build/precache-manifest.ee1919904ba7534cb9ec9fd0a3d6f408.js",
+    "service-worker.js": "/react-build/service-worker.js",
+    "static/css/2.f8360490.chunk.css.map": "/react-build/static/css/2.f8360490.chunk.css.map",
+    "static/media/header-bg.png": "/react-build/static/media/header-bg.8cf84535.png",
+    "static/media/main-bg.png": "/react-build/static/media/main-bg.399a7619.png",
+    "static/media/slick-theme.css": "/react-build/static/media/slick.f97e3bbf.svg"
   }
 }
